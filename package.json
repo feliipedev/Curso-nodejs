@@ -1,0 +1,11 @@
+{
+  "name": "Curso-nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/feliipedev/Curso-nodejs.git",
+  "author": "felipedev <feliipemonteiro901@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
