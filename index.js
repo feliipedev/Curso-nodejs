@@ -7,3 +7,4 @@ server.get('/curso', (req, res) =>{
 })
 
 server.listen(3000);
+/* novo teste */
